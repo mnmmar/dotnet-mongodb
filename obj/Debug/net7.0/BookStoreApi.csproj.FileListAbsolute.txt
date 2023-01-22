@@ -42,3 +42,5 @@
 /Users/marmarmin/Desktop/projects/net/booksdata/BookStoreApi/obj/Debug/net7.0/BookStoreApi.pdb
 /Users/marmarmin/Desktop/projects/net/booksdata/BookStoreApi/obj/Debug/net7.0/BookStoreApi.genruntimeconfig.cache
 /Users/marmarmin/Desktop/projects/net/booksdata/BookStoreApi/obj/Debug/net7.0/ref/BookStoreApi.dll
+/Users/marmarmin/Desktop/projects/net/booksdata/BookStoreApi/bin/Debug/net7.0/package-lock.json
+/Users/marmarmin/Desktop/projects/net/booksdata/BookStoreApi/bin/Debug/net7.0/package.json
